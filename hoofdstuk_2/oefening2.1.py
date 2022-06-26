@@ -1,3 +1,4 @@
+# Oefening om gemiddelde te berekenen met user input
 var1 = int(input("Getal 1 = "))
 var2 = int(input("Getal 2 = "))
 var3 = int(input("Getal 3 = "))
