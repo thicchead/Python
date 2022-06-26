@@ -1,5 +1,4 @@
-# Random tests die ik doe bij het bekijken van de slides (geen oefeningen van de slides)
-
+# Random dingen die ik doe bij het bekijken van de slides van hoofdstuk 2 (geen oefeningen van de slides inbegrepen)
 # text = input("Geef hier tekst in: ")
 # print("Jouw tekst: " + text)
 
