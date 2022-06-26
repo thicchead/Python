@@ -1,3 +1,5 @@
+# Random dingen die ik doe bij het bekijken van de slides van hoofdstuk 1 (geen oefeningen van de slides inbegrepen)
+
 # print("Welkom bij de herexamens")
 # print('Welkom bij de herexamens')
 
