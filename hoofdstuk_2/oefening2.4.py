@@ -1,3 +1,4 @@
+# Oefening om van Celsius naar Fahrenheit te gaan
 graden_celsius = float(input("Aantal graden Celsius = "))
 
 graden_fahrenheit = (9 / 5) * graden_celsius + 32
