@@ -1,3 +1,5 @@
+# Oefening om totale ticketprijs te berekenen
+
 PRIJS_VOLWASSENEN = 11
 PRIJS_KINDEREN = 6
 
