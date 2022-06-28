@@ -1,3 +1,4 @@
+# Oefening om te berekenen hoeveel munten er in een totaalbedrag gaat
 bedrag = int(input("Aantal centen = "))
 
 twee_euro = bedrag // 200
