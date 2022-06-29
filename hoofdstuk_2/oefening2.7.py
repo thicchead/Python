@@ -1,3 +1,4 @@
+# Oefening die nutteloos en dom is
 lengte_tapijt = float(input("Lengte tapijt = "))
 breedte_tapijt = float(input("Breedte tapijt = "))
 prijs_per_meter = float(input("Prijs per vierkante meter = "))
