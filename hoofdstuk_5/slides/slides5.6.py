@@ -6,4 +6,4 @@ def get_tienden(getal):
     return int(resultaat)
 
 
-print(get_tienden(15.318))
+print(get_tienden(24.1186))
