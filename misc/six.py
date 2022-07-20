@@ -20,6 +20,33 @@ def main():
     # print(name[4:])
     # print(name[-1::-1])
 
+    # fruit = "aaldbei"
+    # fruit = fruit[:2] + "r" + fruit[3:]
+    #
+    # print(fruit)
+    #
+    # tekst = "***" + "metehan" + "abc*"
+    # tekst = tekst.strip("*")
+    # print(tekst)
+
+    # tekst = "metehana"
+    # midden = len(tekst) // 2
+    # print(tekst[:midden])
+
+    # tekst = "hallo ik ben ben metehan"
+    # eerste_ben = tekst.find("ben")
+    # print(eerste_ben)
+    # print(tekst.find("ben", eerste_ben + 1))
+    # print(tekst.find("ben", 10, 20))
+
+    # lyric = "Let it be, let it be, let it be, let it be"
+    #
+    # # lyric = lyric.lower()
+    #
+    # replaced = lyric.replace("let", "don't let", 3)
+    #
+    # print(replaced)
+
 
 if __name__ == '__main__':
     main()
