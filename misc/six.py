@@ -47,6 +47,10 @@ def main():
     #
     # print(replaced)
 
+    print(ord("a"))
+    print(chr(69))
+    print("mango" > "mangaan")
+
 
 if __name__ == '__main__':
     main()
