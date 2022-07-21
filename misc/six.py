@@ -47,9 +47,12 @@ def main():
     #
     # print(replaced)
 
-    print(ord("a"))
-    print(chr(69))
-    print("mango" > "mangaan")
+    # print(ord("a"))
+    # print(chr(69))
+    # print("mango" > "mangaan")
+
+    tekst = "metehan"
+    print(tekst[0:4])
 
 
 if __name__ == '__main__':
