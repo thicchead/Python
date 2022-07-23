@@ -1,0 +1,6 @@
+ord gaat van tekst naar ascii
+chr gaat van ascii naar normale tekst
+
+ascii tabel
+	drukletters = 65-90
+	kleine letters = 97-122

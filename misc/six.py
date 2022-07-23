@@ -51,8 +51,38 @@ def main():
     # print(chr(69))
     # print("mango" > "mangaan")
 
-    tekst = "metehan"
-    print(tekst[0:4])
+    # tekst = "metehan"
+    # print(tekst[0:4])
+    #
+    # prijs = 912.31
+    # prijs = prijs // 1
+    # prijs = int(prijs)
+    # print(prijs)
+    # # prijs = prijs[::-1]
+    # prijs = str(prijs)
+    # prijs = prijs[::-1]
+    # print(prijs)
+
+    # tekst = "tekst"
+    #
+    # for letter in range(0, len(tekst)):
+    #     uitkomst = ""
+    #     veranderd = ord(letter) + ord(str(9))
+    #     uitkomst += chr(veranderd)
+    #
+    # # print(uitkomst)
+    #
+    # tekst = "metehan"
+    #
+    # for letter in tekst:
+    #     nieuw_letter = "a"
+    #     print(nieuw_letter)
+
+    letter = "A"
+
+    for i in range(1, 6):
+        letter = ord(letter) + 1
+        print(chr(letter))
 
 
 if __name__ == '__main__':
