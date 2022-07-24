@@ -44,8 +44,20 @@ def main():
     # print(fruitlijst.index("banaan", 1))
     #
     # print(fruitlijst.count("banaan"))
+    #
+    # kleuren = "rood, groen, blauw, geel"
+    #
+    # kleurenlijst = kleuren.split(", ")
+    # print(kleurenlijst)
+    #
+    # nummerlijst = list(range(1, 11))
+    # print(nummerlijst)
 
-    
+    lijst = [[1, 2, 3], [4, 5, 6]]
+
+    for cijfer in lijst:
+        print(cijfer)
+        print(min(cijfer))
 
 
 if __name__ == '__main__':
