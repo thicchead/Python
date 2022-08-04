@@ -7,7 +7,10 @@ def main():
         print(cijferlijst[i])
 
         i += 1
-    
+
+    for cijfer in cijferlijst:
+        print(cijfer)
+
 
 if __name__ == '__main__':
     main()
