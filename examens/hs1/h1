@@ -1,0 +1,21 @@
+H1 = begin, inleiding
+print functie
+
+datatypes
+    strings = " " / ' '
+        --> soms backslash nodig om aanhalingstekens te escapen
+    integers = gehele getallen
+        --> ipv normale (,) komma, gebruiken we .
+                --> anders wordt het geprint als spatie
+        --> 2,000,000,000 = 2 0 0 0
+        --> 2.000.000.000 = error
+    floats = kommagetallen
+
+berekeningen
+    // integer deling = hoeveel keer er in
+    ** macht
+    % modulo = rest na deling
+    deling in de oefening = uitkomst altijd float
+
+! type casting !
+    = big

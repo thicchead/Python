@@ -1,0 +1,16 @@
+Hoofdstuk 3 --> condities
+
+Verschil = en ==
+    = --> waarde toekennen aan een variabele
+    == --> 2 dingen vergelijken met elkaar
+
+Als je 2 dingen met elkaar vergelijkt
+    --> MOET zelfde datatype zijn
+
+in operator
+    --> kijkt als een waarde terugkomt in een collectie
+
+Logische operatoren
+    and = 2 kanten juist
+    or = maar 1 kant moet juist zijn
+    not = tegenovergestelde

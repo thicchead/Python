@@ -1,0 +1,24 @@
+Hoofdstuk 2 --> variabelen
+
+= variabelen nodig waar je waardes in kan opslaan
+    (code = algoritme die probleem op algemeen toepasbare manier oplost)
+
+Variabele = plaats in geheugen met naam en waar je een waarde in kan zetten
+
+Namen = beginnen met letters, geen hoofdletters, spatie = _
+Constanten = waarde die niet meer kan veranderen
+        --> naam = allemaal drukletters, spatie = _
+
+Soft typing = een var heeft geen vaste type
+    --> wel nodig? gebruik functie type()
+
+User input
+    tekst = input("Jouw tekst = ")
+    --> werkt alleen als je input ook een string is
+        dus als je andere input hebt
+            = type casting (nummer = int(input("Getal = "))
+
+
+
+
+
