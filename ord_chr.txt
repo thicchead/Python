@@ -4,3 +4,6 @@ chr gaat van ascii naar normale tekst
 ascii tabel
 	drukletters = 65-90
 	kleine letters = 97-122
+
+print(ord("b")) = 98
+print(chr(85)) = U

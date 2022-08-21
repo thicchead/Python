@@ -1,0 +1,12 @@
+Hoofdstuk 6 --> formatting belangrijkste?
+
+print("{:10s} has {} exams".format("Metehan", 6))
+print("Metehan heeft €{:10.1f}".format(984.157))
+
+
+STRING FUNCTIONS
+
+str.strip(x) --> haal leading en trailing van x weg
+str.upper en lower --> in drukletters of kleine letters
+INDEX ONLY str.find(strToFind, opt. van hier, tot hier) --> vind string van start tot end
+str.replace(old, new, count) --> als count niet wordt meegegeven, alleen eerste keer
